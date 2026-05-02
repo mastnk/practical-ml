@@ -35,3 +35,26 @@ minmax
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/06assignment.ipynb)
 06assignment
+
+## AutoCrop
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/autocrop/autocrop.ipynb)
+autocrop
+
+## MultiClass
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/multiclass/multiclass.ipynb)
+multiclass
+
+## YOLO
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/yolo/yolo_classification.ipynb)
+yolo_classification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/yolo/yolo_detection.ipynb)
+yolo_detection
+
+## LLM
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/llm/openrouter.ipynb)
+openrouter
