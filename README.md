@@ -20,3 +20,18 @@ minmax
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/01gpu.ipynb) 
 01gpu
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/02LRSch.ipynb)
+02LRSch
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/03DA.ipynb)
+03DA
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/04Dropout.ipynb)
+04Dropout
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/05BN.ipynb)
+05BN
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/cifar100/06assignment.ipynb)
+06assignment
