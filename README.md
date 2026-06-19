@@ -54,7 +54,7 @@ yolo_classification
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/yolo/yolo_detection.ipynb)
 yolo_detection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/yolo/yolo_classfication_fine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mastnk/practical-ml/blob/main/yolo/yolo_classification_fine.ipynb)
 yolo_classification_fine
 
 ## LLM
